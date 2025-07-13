@@ -38,6 +38,7 @@
 - Features: Real-time messaging, authentication, scalable backend
 
 [🔗 View project](https://github.com/Duy75973/Chat_app)
+[🔗 View demo](https://chatapp-production-12fb.up.railway.app/)
 
 
 
@@ -47,7 +48,7 @@
 - Features: Product listing, CRUD, order management
 
 [🔗 View project](https://github.com/Duy75973/web_app)
-
+[🔗 View demo](https://webapp-production-fead.up.railway.app/)
 ---
 
 ### 📊 GitHub Stats
