@@ -2,8 +2,8 @@
 <h3 align="center">Backend Developer | Node.js Enthusiast | Real-time System Builder</h3>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">💼 LinkedIn</a> •
+  <a href="mailto:tduy17112003@gmail.com">📧 Email</a> •
+  <a href="https://[www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/duy-nguy%E1%BB%85n-tr%C6%B0%E1%BB%9Dng-949550235/)">💼 LinkedIn</a> •
   <a href="https://github.com/Duy75973">🐙 GitHub</a>
 </p>
 
@@ -37,21 +37,16 @@
 - Tech: Node.js, Express.js, Socket.IO, MongoDB
 - Features: Real-time messaging, authentication, scalable backend
 
-[🔗 View project](https://github.com/Duy75973/nodejs_chat)
+[🔗 View project](https://github.com/Duy75973/Chat_app)
 
-#### 🔐 Node.js Auth API
-> A secure authentication system using JWT and bcrypt.
-- Tech: Node.js, Express.js, MongoDB, JWT
-- Features: Register/login, token-based auth, protected routes
 
-[🔗 View project](https://github.com/Duy75973/nodejs_auth)
 
 #### 🛍️ E-Commerce API
 > Backend for an online store with cart, checkout, and admin system.
 - Tech: Node.js, MongoDB, Express, JWT
 - Features: Product listing, CRUD, order management
 
-[🔗 View project](https://github.com/Duy75973/api_ecommerce)
+[🔗 View project](https://github.com/Duy75973/web_app)
 
 ---
 
